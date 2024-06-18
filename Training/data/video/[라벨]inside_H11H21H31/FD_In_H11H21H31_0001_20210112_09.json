@@ -1,0 +1,29 @@
+{
+    "annotations": {
+        "duration": "00:08",
+        "resourceId": "JFID_002421629",
+        "resource": "FD_In_H11H21H31_0001_20210112_09.mp4",
+        "resourcePath": "./data/video/[\uc6d0\ucc9c]inside_H11H21H31/H11H21H31",
+        "fps": 29.97,
+        "totFrame": 248,
+        "resourceSize": 10336462,
+        "object": [
+            {
+                "startPosition": {
+                    "x": "1597.6549719654856",
+                    "y": "1463.4442409821831",
+                    "keyFrame": 2541.2
+                },
+                "endPosition": {
+                    "x": "1834.1079078163775",
+                    "y": "1738.2394478041651",
+                    "keyFrame": 2603.3
+                },
+                "startFrame": 124,
+                "endFrame": 186,
+                "actionType": "ABNOR_H",
+                "actionName": "H11H21H31"
+            }
+        ]
+    }
+}
