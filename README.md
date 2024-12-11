@@ -14,4 +14,5 @@
 <img width="1269" alt="스크린샷 2024-11-10 오후 8 29 03" src="https://github.com/user-attachments/assets/75e1f3c5-98f6-4e6a-959b-1094c54e6daf">
 
 ### 모델구조
-![Untitled](https://github.com/user-attachments/assets/f3f15d89-8ce0-4481-9cf8-81fcfbccf645)
+<img width="1267" alt="스크린샷 2024-11-10 오후 8 29 19" src="https://github.com/user-attachments/assets/a6bf6add-748d-4605-a6cc-87dbcc653123">
+
